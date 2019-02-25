@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 恩恩sss5555533bbccee
 123
-=======
-恩恩sss5555533bbcc
-123aa
->>>>>>> 4cc7fbca1d7134db7a35ae8f4e8079c4875d03d8
 333
